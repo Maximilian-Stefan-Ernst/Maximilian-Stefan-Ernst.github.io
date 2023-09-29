@@ -1,0 +1,11 @@
+:root {
+  --label-colorlightprimary: rgba(0, 0, 0, 1);
+  --blue-secondary-cello100: rgba(30, 61, 96, 1);
+  --gray-6: rgba(242, 242, 242, 1);
+  --personality-pill-copy-font-family: "PublicSans-Medium", Helvetica;
+  --personality-pill-copy-font-weight: 500;
+  --personality-pill-copy-font-size: 28px;
+  --personality-pill-copy-letter-spacing: 0px;
+  --personality-pill-copy-line-height: normal;
+  --personality-pill-copy-font-style: normal;
+}
